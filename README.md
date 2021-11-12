@@ -1,6 +1,6 @@
 # retire-early
 
-A summer holiday project to track my money and also learn Golang and more backend stuff.
+A summer holiday project to track my net worth and also learn Go.
 
 Inspired by a Programmer's Guide to Saving, Investing, and Retiring Early.
 
