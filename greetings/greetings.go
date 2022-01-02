@@ -16,6 +16,7 @@ func Hello(name string) (string, error) {
 
     // Return a greeting that embeds the name in a message.
     message := fmt.Sprintf(randomFormat(), name)
+
     return message, nil
 }
 
@@ -44,7 +45,7 @@ func init() {
 }
 
 // randomFormat returns one of a set of greeting messages. The returned
-// message is selected at random. 
+// message is selected at random.
 func randomFormat() string {
     // A slice of message formats.
     formats := []string{
