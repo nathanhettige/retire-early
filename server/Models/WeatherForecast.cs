@@ -1,4 +1,6 @@
-namespace Server;
+using System;
+
+namespace Server.Models;
 
 public class WeatherForecast
 {
